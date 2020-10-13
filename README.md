@@ -1,3 +1,19 @@
+## **** Steps to run Tuten application. ****
+
+## Clone repository.
+
+## Enter command:  npm i  
+
+## Enter command:  npm start
+
+## **** DONE ****
+
+## Data to login.
+
+Username: testapis@tuten.cl
+Password: 1234
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
